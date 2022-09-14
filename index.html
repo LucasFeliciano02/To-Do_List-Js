@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Todo Project</title>
+    <!-- project css -->
+    <link rel="stylesheet" href="../static/css/styles.css">
+    <!-- Font Awesome  =    | https://fontawesome.com/icons  =  copiar o nome da classe -->
+    <link rel="stylesheet" href="css/font-awesome.min.css">  <!-- colocar em tudo -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css" integrity="sha512-5A8nwdMOWrSz20fDsjczgUidUBR8liPYU+WymTZP1lmY9G6Oc7HlZv156XqnsgNUzTyMefFTcsFH/tnJE/+xBg==" crossorigin="anonymous" referrerpolicy="no-referrer" />  <!-- https://cdnjs.com/libraries/font-awesome/4.7.0 -->
+    <script src="https://kit.fontawesome.com/c7fa23796f.js" crossorigin="anonymous"></script>  <!-- Chamada da biblioteca font awesome, copiar o nome da classe de iconis por exemplo e colocar em um botao or ex -->
+    <!-- project JS -->
+    <script src="../static/js/scripts.js" defer></script>
+</head>
+<body>
+    <div class="todo-container">
+        <header>
+          <h1 id="title-header">To-do Project</h1>
+        </header>
+        <form id="todo-form">
+          <p>Add your task</p>
+          <div class="form-control">
+            <input
+              type="text"
+              id="todo-input"
+              placeholder="what will be your task?"
+            />
+            <button type="submit">
+              <i class="fa-thin fa-plus"></i>
+            </button>
+          </div>
+        </form>
+        <form id="edit-form" class="hide">
+          <p>Edit your task</p>
+          <div class="form-control">
+            <input type="text" id="edit-input" />
+            <button type="submit">
+              <i class="fa-solid fa-check-double"></i>
+            </button>
+          </div>
+          <button id="cancel-edit-btn">Cancel</button>
+        </form>
+        <div id="toolbar">
+          <div id="search">
+            <h4>Search:</h4>
+            <form>
+              <input type="text" id="search-input" placeholder="looking for..." />
+              <button id="erase-button">
+                <i class="fa-solid fa-delete-left"></i>
+              </button>
+            </form>
+          </div>
+          <div id="filter">
+            <h4>Filter:</h4>
+            <select id="filter-select">
+              <option value="all">All</option>
+              <option value="done">Done</option>
+              <option value="todo">To do</option>
+            </select>
+          </div>
+        </div>
+        <div id="todo-list">
+          <!-- 
+            Template
+            
+            <div class="todo">
+            <h3>Estou fazendo algo aqui...</h3>
+            <button class="finish-todo">
+              <i class="fa-solid fa-check"></i>
+            </button>
+            <button class="edit-todo">
+              <i class="fa-solid fa-pen"></i>
+            </button>
+            <button class="remove-todo">
+              <i class="fa-solid fa-xmark"></i>
+            </button>
+          </div> -->
+        </div>
+      </div>
+    </body>
+  </html>
+</body>
+</html>
