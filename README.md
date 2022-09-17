@@ -8,7 +8,7 @@
 
 
 <div align="center" id="top">
-  <img alt="Conversor" title="Conversor" src="./conversor.gif"/>
+  <img alt="To-do list" title="To-do list" src="./To-do list.gif"/>
 </h1>
 
  
@@ -18,7 +18,7 @@
  </div>
  
 
- <h1 align="center">Conversor de moedas</h1>
+ <h1 align="center">To-do list</h1>
  
  
 <p align="center">
