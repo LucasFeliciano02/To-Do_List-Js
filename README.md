@@ -37,7 +37,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Conversor de moedas feita em grafical user interface (tkinter). Á lógica utiliza de uma API de cotações para fazer as conversoes em tempo real
+• Projeto web To-do list feito com css, html e javascript, há o uso de localstorage aonde será salvo as informações do CRUD
 ```
 
 ## :sparkles: Funcionalidades ##
