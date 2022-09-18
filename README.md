@@ -45,7 +45,7 @@
 
 :heavy_check_mark: Colocar a moeda 'de', moeda 'para', o valor, e converter;\
 :heavy_check_mark: Muito utilizavel para saber o valor de um produto por exemplo de dolar para real ou vice-versa;\
-:heavy_check_mark: Utilizar como aplicativo Executável em sua área de trabalho baixando-o pelo link do meu google drive:\
+:heavy_check_mark: Informações ficam salvas no localstorage como um banco de dados:\
 :heavy_check_mark: Projeto web
 
 ## :rocket: Tecnologias ##
