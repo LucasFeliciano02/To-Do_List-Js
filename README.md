@@ -43,8 +43,8 @@
 ## :sparkles: Funcionalidades ##
 
 
-:heavy_check_mark: ;\
-:heavy_check_mark: ;\
+:heavy_check_mark: Adicionar tarefa, editar tarefa, excluir tarefa;\
+:heavy_check_mark: Campo para procurar por determinada tarefa;\
 :heavy_check_mark: Informações ficam salvas no localstorage como um banco de dados:\
 :heavy_check_mark: Projeto web
 
