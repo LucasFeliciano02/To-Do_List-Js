@@ -47,7 +47,7 @@
 :heavy_check_mark: Campo para procurar por determinada tarefa;\
 :heavy_check_mark: Botão para dar a tarefa como concluída;\
 :heavy_check_mark: Informações ficam salvas no localstorage como um banco de dados:\
-:heavy_check_mark: Projeto web
+:heavy_check_mark: Projeto web.
 
 ## :rocket: Tecnologias ##
  
