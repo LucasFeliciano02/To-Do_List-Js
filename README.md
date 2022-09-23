@@ -8,7 +8,7 @@
 
 
 <div align="center" id="top">
-  <img alt="To-do list" title="To-do list" src="./To-do list.gif"/>
+  <img alt="To-do list" title="To-do list" src="./To-do_list.gif"/>
 </h1>
 
  
