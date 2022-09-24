@@ -8,7 +8,7 @@
 
 
 <div align="center" id="top">
-  <img alt="To-do list" title="To-do list" src="./To-do list.gif"/>
+  <img alt="To-do list" title="To-do list" src="./to-do_list.gif"/>
 </h1>
 
  
@@ -43,10 +43,12 @@
 ## :sparkles: Funcionalidades ##
 
 
-:heavy_check_mark: ;\
-:heavy_check_mark: ;\
+:heavy_check_mark: Adicionar tarefa, editar tarefa, excluir tarefa;\
+:heavy_check_mark: Campo de pesquisa para procurar por determinada tarefa;\
+:heavy_check_mark: Botão para dar a tarefa como concluída;\
 :heavy_check_mark: Informações ficam salvas no localstorage como um banco de dados:\
-:heavy_check_mark: Projeto web
+:heavy_check_mark: Projeto está todo em inglês:\
+:heavy_check_mark: Projeto web.
 
 ## :rocket: Tecnologias ##
  
@@ -56,19 +58,26 @@ As seguintes ferramentas 🛠 foram utilizadas na construção do projeto:
 
 <table>
   <thead>
-    <th>Back-end</th>
+    <th>Front-end</th>
   </thead>
   <tbody>
     <tr>
-      <td>Python</td>
+      <td>Html</td>
     </tr>
     <tr>
-      <td>Tkinter</td>
+      <td>Css</td>
     </tr> 
-	    
+    <tr>
+      <td>Javascript</td>
+    </tr>
+    <tr>
+      <td>Local Storage</td>
+    </tr>  
+	  
   </tbody>
 
 </table>
+
 
 
 ## :white_check_mark: Pré-requisitos ##
@@ -85,7 +94,7 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
 ```bash
 # Clone este repositorio
  -> git bash here
-  $ https://github.com/LucasFeliciano02/Cadastro_Basico-GUI.git
+  $ https://github.com/LucasFeliciano02/To-Do_List-Js.git
 
 # Acesse a pasta do projeto que aparecerá em sua área de trabalho
  -> mouse esquerdo -> Abrir com Code
@@ -96,13 +105,6 @@ Além disto é bom ter um editor para trabalhar com o código, tal como: [VS Cod
  3º  ->  .\venv\Scripts\activate.bat  
 
 # Baixar Run Code em extensões, tkinter no terminal e DESFRUTAR DO CÓDIGO
- -> terminal -> pip install tkinter
- -> terminal -> pip install pillow
- 
-### Utilizando o executável:
- -> mouse esquerdo no arquivo.exe ->  Criar atalho  ->  Abrir o app na área de trabalho  &  Enjoy
- 
-# Obs: Não foi possivel dar commit no arquivo executável pois é um arquivo pesado, ultrapassa o limite que o github suporta 
 ```
 
 
