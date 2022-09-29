@@ -37,7 +37,7 @@
 ## :dart: Sobre ##
 
 ```sh
-• Projeto web To-do list feito com css, html e javascript, há o uso de localstorage aonde será salvo as informações do CRUD
+• Projeto web To-do list feito com css, html e javascript, há o uso de localstorage aonde será salvo as informações do CRUD.
 ```
 
 ## :sparkles: Funcionalidades ##
